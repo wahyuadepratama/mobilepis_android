@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mobile PIS</string>
+    <string name="version">Version 0.2</string>
+    <string name="quickstart_message">When this application is activated, this application will display
+        a notification every time a factory status changes at PT Semen Padang.</string>
+
+    <string name="detail">Dashboard</string>
+    <string name="history">History</string>
+    <string name="setting">Setting</string>
+    <string name="web_pis">Web PIS</string>
+    <string name="load_dashboard">Loading..</string>
+
+    <string name="search">Search</string>
+    <string name="searchAll">All History</string>
+    <string name="searchMonth">This Month\'s History</string>
+    <string name="searchWeek">This Week\'s History</string>
+    <string name="searchDay">Today\'s History</string>
+
+    <string name="loading">Please Waiting…</string>
+    <string name="plant">Plant</string>
+    <string name="raw_mill">Raw Mill</string>
+    <string name="kiln">Kiln</string>
+    <string name="coal_mill">Coal Mill</string>
+    <string name="cement_mill">Cement Mill</string>
+
+    <string name="indarung_2">Indarung II</string>
+    <string name="indarung_3">Indarung III</string>
+    <string name="indarung_4">Indarung IV</string>
+    <string name="indarung_5">Indarung V</string>
+    <string name="indarung_6">Indarung VI</string>
+</resources>

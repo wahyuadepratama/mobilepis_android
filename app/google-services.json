@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252767745146",
+    "firebase_url": "https://learning-5d2ff.firebaseio.com",
+    "project_id": "learning-5d2ff",
+    "storage_bucket": "learning-5d2ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252767745146:android:753f4708701515ce",
+        "android_client_info": {
+          "package_name": "com.timerlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252767745146-rj8o7gpskbfpovg2076fu4vuealdnlli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timerlearning",
+            "certificate_hash": "de2b0fd3edd7f8f2ea19cc71c1e8882020d42c3c"
+          }
+        },
+        {
+          "client_id": "252767745146-b0kqrfh12d63ob0ag3240c4g267k7hrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVve_3ira3xk_M5vTz0AsVsgbU87j_RNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252767745146-b0kqrfh12d63ob0ag3240c4g267k7hrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
